@@ -1,7 +1,7 @@
 # yachtski-scale
 
 
-![banner]()
+![BYR-banner](https://i.gyazo.com/8365a40124fc6e5db95c18d1f805f0a6.png)
 
 
 TODO: Put badges here.
